@@ -329,7 +329,7 @@ Port 10 (FastEthernet0/10) of VLAN0010 is designated forwarding
   The port is in the portfast mode
   Link type is point-to-point by default
 ```
-*Статус:* `Portfast: Enabled`.
+*Статус:* `The port is in the portfast mode`.
 
 **Ответ на теоретический вопрос:**
 Для включения PortFast на транковом порту используется команда:
